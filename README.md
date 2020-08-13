@@ -4,7 +4,7 @@ and an API to serve that data in JSON format.
 
 ## Steps to install and run in local system:-
 * Create a virtual environment
-    ```python3 -m venv <env_name>```
+    ```python -m venv <env_name>```
 * Activate virtual environment
     ```source <env_name>/bin/activate```
 * Install requirements in venv
